@@ -1,13 +1,13 @@
 ---
 
-# 💡 Sales Forecasting Model: An End-to-End Guide with Python & ARIMA
+# Sales Forecasting Model: An End-to-End Guide with Python & ARIMA
 
 **Author:** Devendra Yadav  
 **Objective:** Build an accurate, business-impacting sales forecast using ARIMA, Python, and Power BI.
 
 ---
 
-## 🧠 1️⃣ Understanding the Problem
+## Understanding the Problem
 
 The goal is to predict future sales to guide inventory and strategy decisions. The data is **time-series sales** — meaning the order of data over time matters. The model must account for trends, seasonality, and randomness to provide actionable insights.
 
